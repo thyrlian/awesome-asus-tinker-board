@@ -3,6 +3,8 @@ A curated list of ASUS Tinker Board resources
 
 ![Tinker Board Logo](https://github.com/thyrlian/awesome-asus-tinker-board/blob/master/resources/images/tinker_board_logo.png)
 
+[Official Page from ASUS](https://www.asus.com/Single-Board-Computer/Tinker-Board/)
+
 ## Hardware
 
 ### Specifications
