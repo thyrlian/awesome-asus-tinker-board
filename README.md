@@ -30,3 +30,8 @@ A curated list of ASUS Tinker Board resources
 
 According to the quick start guide (first edition):
 > 1 x Micro USB cable and a **5V/2A** USB power adapter with **LPS** marking
+
+According to the ASUS Tinker Board official page's FAQ:
+> Tinker Board supports **5V/1~2.5A** power input, but since the SoC’s performance is high, if the connected
+peripheral required huge power demand from the board, it might cause the power supply issue.
+Thus we strongly recommended to use the AC adaptor with **5V/2~2.5A** power rating, plus **LPS** marking.
