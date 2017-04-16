@@ -34,6 +34,13 @@ According to the ASUS Tinker Board official page's FAQ:
 peripheral required huge power demand from the board, it might cause the power supply issue.
 Thus we strongly recommended to use the AC adaptor with **5V/2~2.5A** power rating, plus **LPS** marking.
 
+### Tested Compatible Components
+
+| Category | Model Name |
+| --- | --- |
+| SD Card | Lexar® Professional 1000x microSDXC™ UHS-II (150MB/s) 64GB |
+| Power Adapter | Samsung Travel Adaptor EP-TA10EWE 5.3V/2.0A |
+
 ## TinkerOS
 
 A Debian-based distribution ensures a smooth and functional experience.
