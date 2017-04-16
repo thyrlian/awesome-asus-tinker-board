@@ -34,6 +34,30 @@ According to the ASUS Tinker Board official page's FAQ:
 peripheral required huge power demand from the board, it might cause the power supply issue.
 Thus we strongly recommended to use the AC adaptor with **5V/2~2.5A** power rating, plus **LPS** marking.
 
+## TinkerOS
+
+A Debian-based distribution ensures a smooth and functional experience.
+
+### Flash OS Image
+
+1. Download [**Etcher**](https://etcher.io/) - a powerful cross-platform open source OS image flasher.
+2. Download **TinkerOS**.
+3. Uncompress the TinkerOS file, select the **.img** file in Etcher and flash it to the SD card.  (Don't worry about the FS format, Etcher will make it **FAT32** eventually.)
+
+### Authentication
+
+username: `linaro`
+
+password: `linaro`
+
+### Download
+
+| Version | Release Date |
+| --- | --- |
+| [V1.6 Beta](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20170330-tinker-board-linaro-jessie-alip-v16.zip) | 2017/04/01 |
+| [V1.4](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20170223-tinker-board-linaro-jessie-alip-v14.zip) | 2017/03/10 |
+| [V1.3](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/TinkerOS_Debian.zip) | 2017/02/07 |
+
 ## Links
 
 * [Official Page from ASUS](https://www.asus.com/Single-Board-Computer/Tinker-Board/)
