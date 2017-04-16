@@ -3,8 +3,6 @@ A curated list of ASUS Tinker Board resources
 
 ![Tinker Board Logo](https://github.com/thyrlian/awesome-asus-tinker-board/blob/master/resources/images/tinker_board_logo.png)
 
-[Official Page from ASUS](https://www.asus.com/Single-Board-Computer/Tinker-Board/)
-
 ## Hardware
 
 ### Specifications
@@ -35,3 +33,8 @@ According to the ASUS Tinker Board official page's FAQ:
 > Tinker Board supports **5V/1~2.5A** power input, but since the SoC’s performance is high, if the connected
 peripheral required huge power demand from the board, it might cause the power supply issue.
 Thus we strongly recommended to use the AC adaptor with **5V/2~2.5A** power rating, plus **LPS** marking.
+
+## Links
+
+* [Official Page from ASUS](https://www.asus.com/Single-Board-Computer/Tinker-Board/)
+* [Driver & Tools download page](https://www.asus.com/Single-Board-Computer/Tinker-Board/HelpDesk_Download/)
