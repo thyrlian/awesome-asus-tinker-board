@@ -34,6 +34,8 @@ According to the ASUS Tinker Board official page's FAQ:
 peripheral required huge power demand from the board, it might cause the power supply issue.
 Thus we strongly recommended to use the AC adaptor with **5V/2~2.5A** power rating, plus **LPS** marking.
 
+**Battery** supply is also possible, as long as the power output is no less than **5V/1A**.
+
 ### Tested Compatible Components
 
 | Category | Model Name |
