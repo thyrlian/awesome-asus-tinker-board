@@ -3,6 +3,10 @@ A curated list of ASUS Tinker Board resources
 
 ![Tinker Board Logo](https://github.com/thyrlian/awesome-asus-tinker-board/blob/master/resources/images/tinker_board_logo.png)
 
+**⚠ Warning**
+
+I take no responsibility and I am not liable for any damage caused through use of this guide.
+
 ## Hardware
 
 ### Specifications
