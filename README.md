@@ -81,6 +81,7 @@ password: `linaro`
 | Version | Release Date |
 | --- | --- |
 | [V13.11.0.2 Beta](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20170419-tinkerboard-android-marshmallow-userdebug131102.zip) | 2017/04/20 |
+| [V13.11.0.3 Beta](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20170427-tinkerboardandroidmarshmallow-userdebug-v131103.zip) | 2017/04/28 |
 
 ## Links
 
