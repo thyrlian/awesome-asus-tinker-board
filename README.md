@@ -71,6 +71,7 @@ password: `linaro`
 
 | Version | Release Date |
 | --- | --- |
+| [V1.9 Beta](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20170703-tinker-board-linaro-stretch-alip-v1.9.zip) | 2017/07/12 |
 | [V1.8 Beta](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20170417-tinker-board-linaro-stretch-alip-v1.8.zip) | 2017/04/18 |
 | [V1.6 Beta](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20170330-tinker-board-linaro-jessie-alip-v16.zip) | 2017/04/01 |
 | [V1.4](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20170223-tinker-board-linaro-jessie-alip-v14.zip) | 2017/03/10 |
