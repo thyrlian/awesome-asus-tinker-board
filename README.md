@@ -71,6 +71,7 @@ password: `linaro`
 
 | Version | Release Date |
 | --- | --- |
+| [V2.0.1 Beta](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20170817-tinker-board-linaro-stretch-alip-v2.0.1.img.zip) | 2017/08/21 |
 | [V1.9 Beta](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20170703-tinker-board-linaro-stretch-alip-v1.9.zip) | 2017/07/12 |
 | [V1.8 Beta](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20170417-tinker-board-linaro-stretch-alip-v1.8.zip) | 2017/04/18 |
 | [V1.6 Beta](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20170330-tinker-board-linaro-jessie-alip-v16.zip) | 2017/04/01 |
@@ -81,6 +82,7 @@ password: `linaro`
 
 | Version | Release Date |
 | --- | --- |
+| [V13.11.0.5 Beta](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20170721tinkerboard-androidmarshmallow-userdebug-v131105.zip) | 2017/08/18 |
 | [V13.11.0.2 Beta](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20170419-tinkerboard-android-marshmallow-userdebug131102.zip) | 2017/04/20 |
 | [V13.11.0.3 Beta](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20170427-tinkerboardandroidmarshmallow-userdebug-v131103.zip) | 2017/04/28 |
 | [V13.11.0.4](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20170511-tinker-board-android-marshmallow-userdebug-v131104.zip) | 2017/05/15 |
