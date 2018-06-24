@@ -49,6 +49,11 @@ Thus we strongly recommended to use the AC adaptor with **5V/2~2.5A** power rati
 | Case | akasa Pi ALUMINIUM CASE for Raspberry Pi (A-RA01-A1B) |
 | Case | akasa Pi ALUMINIUM CASE for Raspberry Pi and Asus Tinker Board (A-RA02-A1B) |
 
+### CSI Camera
+
+* Prerequisite: TinkerOS v2.0+
+* [How-to](https://tinkerboarding.co.uk/wiki/index.php?title=CSI-camera)
+
 ## TinkerOS
 
 A Debian-based distribution ensures a smooth and functional experience.
