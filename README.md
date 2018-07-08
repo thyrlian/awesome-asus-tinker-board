@@ -54,6 +54,13 @@ Thus we strongly recommended to use the AC adaptor with **5V/2~2.5A** power rati
 * Prerequisite: TinkerOS v2.0+
 * [How-to](https://tinkerboarding.co.uk/wiki/index.php?title=CSI-camera)
 
+## Configuration
+
+### Remote Connection
+
+* SSH is enabled by default
+* [How to set up VNC server](https://www.digitalocean.com/community/tutorials/how-to-set-up-vnc-server-on-debian-8)
+
 ## TinkerOS
 
 A Debian-based distribution ensures a smooth and functional experience.
