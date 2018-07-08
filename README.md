@@ -72,6 +72,11 @@ password: `linaro`
 
 ### Download
 
+To check your OS version:
+```shell
+cat /proc/version
+```
+
 **Debian**
 
 | Version | Release Date |
