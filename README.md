@@ -103,6 +103,7 @@ cat /proc/version
 
 | Version | Release Date |
 | --- | --- |
+| [V13.14.0.95](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20180712-tinker-board-android-v13.14.0.95.img.zip) | 2018/08/02 |
 | [V13.13.0.74](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20180206-tinker-board-android-v13.13.0.74.img.zip) | 2018/03/02 |
 | [V13.12.0.43](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20171115-tinker-board-android-marshmallow-userdebug-v1312043.zip) | 2017/12/11 |
 | [V13.11.0.5 Beta](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20170721tinkerboard-androidmarshmallow-userdebug-v131105.zip) | 2017/08/18 |
