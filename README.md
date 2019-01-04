@@ -88,6 +88,7 @@ cat /proc/version
 
 | Version | Release Date |
 | --- | --- |
+| [V2.0.8](https://dlcdnets.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20181023-tinker-board-linaro-stretch-alip-v2.0.8.img.zip) | 2018/11/22 |
 | [V2.0.7](http://dlcdnet.asus.com/pub/ASUS/mb/Embedded_IPC/TinkerBoard_S/20180622-tinker-board-linaro-stretch-alip-v2.0.7.img.zip) | 2018/06/28 |
 | [V2.0.5](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/TInker_Board/2GB/20180222-tinker-board-linaro-stretch-alip-v2.0.5.img.zip) | 2018/03/20 |
 | [V2.0.4](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20171115-tinker-board-linaro-stretch-alip-v2.0.4.zip) | 2017/12/11 |
