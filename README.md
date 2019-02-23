@@ -104,6 +104,7 @@ cat /proc/version
 
 | Version | Release Date |
 | --- | --- |
+| [V14.2.2.73](https://dlcdnets.asus.com/pub/ASUS/mb/Linux/Tinker_Board_S/20190103-tinker-board-android-nougat-userdebug.img.zip) | 2019/02/20 |
 | [V14.1.2.50](https://dlcdnets.asus.com/pub/ASUS/mb/Linux/Tinker_Board_S/20180817-tinker-board-androidnougat-userdebug-v14.1.2.50.zip) | 2018/09/03 |
 | [V13.14.0.95](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20180712-tinker-board-android-v13.14.0.95.img.zip) | 2018/08/02 |
 | [V13.13.0.74](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20180206-tinker-board-android-v13.13.0.74.img.zip) | 2018/03/02 |
