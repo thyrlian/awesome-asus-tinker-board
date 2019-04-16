@@ -50,7 +50,6 @@ Thus we strongly recommended to use the AC adaptor with **5V/2~2.5A** power rati
 | Case | akasa Pi ALUMINIUM CASE for Raspberry Pi and Asus Tinker Board (A-RA02-A1B) |
 | Case | Eleduino Raspberry Pi Aluminum Case With Heatsinks(Black)|
 
-
 ### CSI Camera
 
 * Prerequisite: TinkerOS v2.0+
