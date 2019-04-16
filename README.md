@@ -48,6 +48,8 @@ Thus we strongly recommended to use the AC adaptor with **5V/2~2.5A** power rati
 | Power Adapter | Samsung Travel Adaptor EP-TA10EWE 5.3V/2.0A |
 | Case | akasa Pi ALUMINIUM CASE for Raspberry Pi (A-RA01-A1B) |
 | Case | akasa Pi ALUMINIUM CASE for Raspberry Pi and Asus Tinker Board (A-RA02-A1B) |
+| Case | Eleduino Raspberry Pi Aluminum Case With Heatsinks(Black)|
+
 
 ### CSI Camera
 
