@@ -88,6 +88,7 @@ cat /proc/version
 
 | Version | Release Date |
 | --- | --- |
+| [V2.0.10](https://dlcdnets.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20190515-tinker-board-linaro-stretch-alip-v2.0.10.img.zip) | 2019/05/31 |
 | [V2.0.8](https://dlcdnets.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20181023-tinker-board-linaro-stretch-alip-v2.0.8.img.zip) | 2018/11/22 |
 | [V2.0.7](http://dlcdnet.asus.com/pub/ASUS/mb/Embedded_IPC/TinkerBoard_S/20180622-tinker-board-linaro-stretch-alip-v2.0.7.img.zip) | 2018/06/28 |
 | [V2.0.5](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/TInker_Board/2GB/20180222-tinker-board-linaro-stretch-alip-v2.0.5.img.zip) | 2018/03/20 |
@@ -104,6 +105,7 @@ cat /proc/version
 
 | Version | Release Date |
 | --- | --- |
+| [V14.3.2.82](https://dlcdnets.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20190515-tinker-board-android-nougat-userdebug.zip) | 2019/05/31 |
 | [V14.2.2.73](https://dlcdnets.asus.com/pub/ASUS/mb/Linux/Tinker_Board_S/20190103-tinker-board-android-nougat-userdebug.img.zip) | 2019/02/20 |
 | [V14.1.2.50](https://dlcdnets.asus.com/pub/ASUS/mb/Linux/Tinker_Board_S/20180817-tinker-board-androidnougat-userdebug-v14.1.2.50.zip) | 2018/09/03 |
 | [V13.14.0.95](http://dlcdnet.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20180712-tinker-board-android-v13.14.0.95.img.zip) | 2018/08/02 |
