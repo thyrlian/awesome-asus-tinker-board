@@ -59,8 +59,11 @@ Thus we strongly recommended to use the AC adaptor with **5V/2~2.5A** power rati
 ### Remote Connection
 
 * SSH is enabled by default
-* [How to set up VNC server](https://www.digitalocean.com/community/tutorials/how-to-set-up-vnc-server-on-debian-8)
-* Connect to: `vnc://tinkerboard:5901`
+* VNC
+  * **Preferences** -> **Tinker Board Configuration** -> **Interfaces** -> **VNC**
+    * Switch to **Enable**
+    * Click **Change VNC Password**
+  * From client, connect to: `vnc://tinkerboard:5901`
 
 ## TinkerOS
 
