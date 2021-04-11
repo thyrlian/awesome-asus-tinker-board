@@ -93,6 +93,16 @@ PasswordAuthentication no
 UsePAM no
 ```
 
+### SSH Banner
+
+To use the shiny [SSH banner](sshd-banner)
+
+* Drop the banner file to `/etc/ssh/sshd-banner`
+* Edit `/etc/ssh/sshd_config`
+  ```console
+  Banner /etc/ssh/sshd-banner
+  ```
+
 ### Download
 
 To check your OS version:
