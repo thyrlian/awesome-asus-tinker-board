@@ -81,6 +81,18 @@ username: `linaro`
 
 password: `linaro`
 
+### Security
+
+[Securing your Raspberry Pi](https://www.raspberrypi.org/documentation/configuration/security.md)
+
+```console
+sudo nano /etc/ssh/sshd_config
+
+ChallengeResponseAuthentication no
+PasswordAuthentication no
+UsePAM no
+```
+
 ### Download
 
 To check your OS version:
