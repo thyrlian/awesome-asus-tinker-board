@@ -114,6 +114,9 @@ cat /proc/version
 
 | Version | Release Date |
 | --- | --- |
+| [V3.0.11-20211026](https://dlcdnets.asus.com/pub/ASUS/Embedded_IPC/TinkerBoard_R2.0/Tinker_Board-Debian-Buster-v3.0.11-20211026.zip) | 2022/07/11 |
+| [V2.2.9](https://dlcdnets.asus.com/pub/ASUS/mb/Embedded_IPC/TinkerBoard_S/Tinker_Board-Debian-Stretch-v2.2.9-20210624.zip) | 2021/08/03 |
+| [V2.2.2 Beta](https://dlcdnets.asus.com/pub/ASUS/mb/Embedded_IPC/TinkerBoard_S/Tinker_Board-Debian-Stretch-v2.2.2-20210326.zip) | 2021/03/30 |
 | [V2.1.16](https://dlcdnets.asus.com/pub/ASUS/mb/Embedded_IPC/TinkerBoard_S/Tinker_Board-Debian-Stretch-V2.1.16-20200813.zip) | 2020/09/08 |
 | [V2.1.11](https://dlcdnets.asus.com/pub/ASUS/mb/Embedded_IPC/TinkerBoard_S/Tinker_Board-Debian-Stretch-V2.1.11-20200310.zip) | 2020/03/30 |
 | [V2.0.11](https://dlcdnets.asus.com/pub/ASUS/mb/Linux/Tinker_Board_2GB/20190821-tinker-board-linaro-stretch-alip-v2.0.11.img.zip) | 2019/08/22 |
