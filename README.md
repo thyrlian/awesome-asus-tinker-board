@@ -156,7 +156,7 @@ BalenaOS is an operating system optimized for running Docker containers on embed
 ## Links
 
 * [Official Page from ASUS](https://www.asus.com/Single-Board-Computer/Tinker-Board/)
-* [Driver & Utility download page](https://www.asus.com/Networking-IoT-Servers/AIoT-Industrial-Solution/All-series/Tinker-Board/HelpDesk_Download/)
+* [Driver & Utility download page](https://www.asus.com/supportonly/tinker%20board2gb/helpdesk_download/)
 
 ## Articles
 
