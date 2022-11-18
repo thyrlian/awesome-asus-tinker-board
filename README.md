@@ -156,6 +156,12 @@ BalenaOS is an operating system optimized for running Docker containers on embed
 
 [Getting Started](https://www.balena.io/os/docs/asus-tinker-board/getting-started/) on the Asus Tinker Board.
 
+## Armbian
+
+Armbian is a minimal Debian based Linux with powerful configurator and software installer.
+
+[Download](https://www.armbian.com/tinkerboard/) the OS image for Asus Tinker Board.
+
 ## Links
 
 * [Official Page from ASUS](https://www.asus.com/Single-Board-Computer/Tinker-Board/)
