@@ -162,6 +162,18 @@ Armbian is a minimal Debian based Linux with powerful configurator and software 
 
 [Download](https://www.armbian.com/tinkerboard/) the OS image for Asus Tinker Board.
 
+### Docker
+
+[Official Guide](https://docs.armbian.com/User-Guide_Advanced-Features/#how-to-run-docker)
+
+```bash
+apt-get install docker.io
+usermod -aG docker <your-user>
+# add below line to /boot/armbianEnv.txt
+# extraargs=systemd.unified_cgroup_hierarchy=0
+systemctl reboot -i
+```
+
 ## Links
 
 * [Official Page from ASUS](https://www.asus.com/Single-Board-Computer/Tinker-Board/)
