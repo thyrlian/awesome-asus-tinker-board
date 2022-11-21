@@ -59,6 +59,7 @@ Thus we strongly recommended to use the AC adaptor with **5V/2~2.5A** power rati
 ### Remote Connection
 
 * **SSH** is enabled by default
+  * [How To Configure SSH Key-Based Authentication on a Linux Server](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server)
 * **VNC** ([How to Install and Configure VNC on Debian 11](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-debian-11))
   * **Preferences** -> **Tinker Board Configuration** -> **Interfaces** -> **VNC**
     * Switch to **Enable**
